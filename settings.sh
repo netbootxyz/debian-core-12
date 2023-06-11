@@ -5,4 +5,4 @@ live/initrd.img|initrd
 live/vmlinuz|vmlinuz"
 EXTRACT_INITRD="true"
 INITRD_NAME="initrd"
-INITRD_TYPE="gz"
+INITRD_TYPE="zstd"
